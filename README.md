@@ -1,3 +1,2 @@
-Designed a dynamic e-commerce dashboard using Power BI to analyze Amazon-style sales data. Tracked key KPIs like Revenue, Profit, Orders, and Discount %, and visualized 
-category contribution, product performance, and monthly vs. quarterly trends. Delivered actionable insights on seasonal demand, margin shifts, and customer behavior.
-<img width="1267" height="677" alt="image" src="https://github.com/user-attachments/assets/ef4ecb55-c5ee-4b81-a3d0-0bbe8df87fd2" />
+Developed a Power BI dashboard to analyze Amazon-style sales data across 200 transactions. Tracked KPIs, visualized category and product performance, and compared monthly vs. quarterly revenue and profit trends.
+<img width="1288" height="717" alt="image" src="https://github.com/user-attachments/assets/59119bc7-58fc-4baf-af93-a544d2c61776" />
